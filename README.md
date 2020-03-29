@@ -1,5 +1,5 @@
 # Fitness-Tracker
 # In terminal
-# 'mongo'
 # 'mongod'
+# 'mongo'
 # 'npm start'
